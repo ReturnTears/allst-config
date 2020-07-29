@@ -1,2 +1,2 @@
-server:
-  port: 1234
+config:
+  info: config-test config info msg
