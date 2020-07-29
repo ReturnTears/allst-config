@@ -1,2 +1,2 @@
-server:
-  port: 3456
+config:
+  info: config-prod config info msg
