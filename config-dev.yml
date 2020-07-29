@@ -1,2 +1,2 @@
 config:
-  info: config-dev config info msg
+  info: config-dev config info msg, version = 2
